@@ -1,0 +1,21 @@
+2015/12/15 19:09:43 [D] server = 127.0.0.1:3000
+2015/12/15 19:09:43 [D] start web service on 127.0.0.1:3000 
+
+2015/12/15 19:09:48 [D] Create Post
+2015/12/15 19:09:49 [D] Insert Post user-id : 101 , type: text, active : true
+2015/12/15 19:09:49 [D] Create a new Index in Elasticsearch http://127.0.0.1:9200
+2015/12/15 19:09:49 [D] Create a client to Elasticsearch
+2015/12/15 19:09:49 [D] Search the postindex in Elasticsearch
+2015/12/15 19:09:49 [D] Indexed post Id to index postindex, type text in Elasticsearch
+2015/12/15 19:11:52 [D] server = 127.0.0.1:3000
+2015/12/15 19:11:52 [D] start web service on 127.0.0.1:3000 
+
+2015/12/15 19:12:03 [D] Create Post
+2015/12/15 19:12:03 [D] Insert Post user-id : 101 , type: text, active : true
+2015/12/15 19:12:03 [D] Create a new Index in Elasticsearch http://127.0.0.1:9200
+2015/12/15 19:12:03 [D] Create a client to Elasticsearch
+2015/12/15 19:12:03 [D] Search the postindex in Elasticsearch
+2015/12/15 19:12:03 [D] Indexed post Id to index postindex, type text in Elasticsearch
+2015/12/15 19:37:40 [D] server = 127.0.0.1:3000
+2015/12/15 19:37:40 [D] start web service on 127.0.0.1:3000 
+
